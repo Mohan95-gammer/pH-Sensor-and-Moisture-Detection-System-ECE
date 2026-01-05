@@ -18,7 +18,7 @@ It supports smart agriculture by providing real-time soil condition data.
 - Jumper wires, breadboard, power supply
 
 ## ⚡ Circuit Diagram
-![Circuit Diagram](schematic.png)
+![Circuit Diagram](circuits/schematic.png)
 
 ## 💻 How to Run
 1. Connect sensors as per the circuit diagram.
