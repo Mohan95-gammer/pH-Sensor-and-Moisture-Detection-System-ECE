@@ -22,7 +22,7 @@ It supports smart agriculture by providing real-time soil condition data.
 
 ## 💻 How to Run
 1. Connect sensors as per the circuit diagram.
-2. Open `code/combined_system.ino` in Arduino IDE.
+2. Open `https://github.com/Mohan95-gammer/pH-Sensor-and-Moisture-Detection-System-ECE/blob/71ada2cb44fe9196d4934aef20dda6debe3d7688/phsensor_copy_20260105201338.ino` in Arduino IDE.
 3. Select board and port, then upload.
 4. Open Serial Monitor at 9600 baud to view readings.
 
