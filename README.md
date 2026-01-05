@@ -18,7 +18,7 @@ It supports smart agriculture by providing real-time soil condition data.
 - Jumper wires, breadboard, power supply
 
 ## ⚡ Circuit Diagram
-See `circuits/schematic.png` for wiring layout.
+![Circuit Diagram](circuits/schematic.png)
 
 ## 💻 How to Run
 1. Connect sensors as per the circuit diagram.
@@ -27,5 +27,7 @@ See `circuits/schematic.png` for wiring layout.
 4. Open Serial Monitor at 9600 baud to view readings.
 
 ## 📊 Sample Output
-
-+
+When running the system, the Serial Monitor displays:
+pH: 6.8 | Moisture: 42%
+pH: 7.1 | Moisture: 38%
+pH: 6.5 | Moisture: 55%
